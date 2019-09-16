@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Satcliff](https://up.htmlacademy.ru/javascript/18/user/577705).
-* Наставник: `Неизвестно`.
+* Наставник: [Роман Макаров](https://htmlacademy.ru/profile/deepspiral).
 
 ---
 
